@@ -5,8 +5,8 @@
 
 ### Motors- types of motors
 
-* *Claw motor* - retracts and closes. Speed ranges between 0 and 127. 0 being no speed and 127 being maxed speed.
-* *Normal motor* - rotates back and forth. Speed ranges between 0 and 127. 0 being no speed and 127 being maxed speed.
+* **Claw motor** - retracts and closes. Speed ranges between 0 and 127. 0 being no speed and 127 being maxed speed.
+* **Normal motor** - rotates back and forth. Speed ranges between 0 and 127. 0 being no speed and 127 being maxed speed.
 
 ### Sensors
 
@@ -55,5 +55,6 @@ stop();
 * **Pseudocode**-  pseudocode is part of a programming language that tells, in your own words, what each line of coding is doing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEwMjI0NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUyNDk1MjksLTEwMDEwMjI0NzNdfQ
+==
 -->
