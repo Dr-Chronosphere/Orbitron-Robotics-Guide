@@ -1,3 +1,4 @@
+
 **Unit α**
 # *General Construction*
 
@@ -61,3 +62,6 @@
 	* Swinging from side to side
 
 *Most mechanical systems use a type of input motion that is converted to an output motion.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwNjQxNTkzOF19
+-->
