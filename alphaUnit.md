@@ -1,6 +1,4 @@
-
-
-**Unit α**
+** Unit α **
 # *General Construction*
 
 ## Introduction to Construction
@@ -59,5 +57,5 @@
 
 *Most mechanical systems use a type of input motion that is converted to an output motion.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTE2ODE2XX0=
+eyJoaXN0b3J5IjpbLTIxMTYzNDgyMjYsMTIyMTE2ODE2XX0=
 -->
