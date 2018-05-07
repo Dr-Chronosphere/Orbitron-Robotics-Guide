@@ -1,4 +1,5 @@
 
+
 **Unit α**
 # *General Construction*
 
@@ -7,33 +8,28 @@
 ### Tools
 
 * Allen Wrench
- * used for:
-  * tightening/loosening screws/collars
+	* used for:
+		* tightening/loosening screws/collars
 * Wrench
- * used for:
-  * Nuts
-![nutImage]()
+	* used for:
+		* Nuts
 
 ### Screws, Nuts, and Collars
 
 * Screws
- * 2 types-black, gold
-  * black-uses shorter, but wider Allen Wrench
-  * gold-uses longer, but narrower Allen Wrench
- * to tighten/loosen
- ![tightenImage]()
- ![loosenImage]()
+	* 2 types-black, gold
+		* black-uses shorter, but wider Allen Wrench
+		* gold-uses longer, but narrower Allen Wrench
+	 * to tighten/loosen
 
 * Nuts
- * 2 types- normal, lock
-  * Both types are tightened/loosened by the larger end of the wrench
+	* 2 types- normal, lock
+		* Both types are tightened/loosened by the larger end of the wrench
 
 * Collars
- * uses longer, but narrower Allen Wrench
- * to apply to axle
-  * make sure screw will tighten on a flat side of the axle
-![collarImage]()
-
+	* uses longer, but narrower Allen Wrench
+	* to apply to axle make sure screw will tighten on a flat side of the axle
+	* 
 ## Structure
 
 * Chassis Bumper
@@ -63,5 +59,5 @@
 
 *Most mechanical systems use a type of input motion that is converted to an output motion.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjQxNTkzOF19
+eyJoaXN0b3J5IjpbMTIyMTE2ODE2XX0=
 -->
